@@ -1,4 +1,4 @@
-# Nutri-Log – Daily Nutrition Calculator
+#  Nutri-Log – Daily Nutrition Calculator
 
 ## 📌 Project Overview
 
