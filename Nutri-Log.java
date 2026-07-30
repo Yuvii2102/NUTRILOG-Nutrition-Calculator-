@@ -335,3 +335,44 @@ public class MapExample
 | Index      | ✅ Yes | ❌ No | ❌ No      |
 
 
+    import java.util.*;
+public class MapExample 
+{
+    public static void main(String[] args) 
+{
+        HashMap<Integer, String> students = new HashMap<>();
+
+        students.put(1, "Yuvi");
+        students.put(2, "Babloo");
+
+        System.out.println(students);
+    }
+}
+
+
+| Feature    | List  | Set  | Map       |
+| ---------- | ----- | ---- | --------- |
+| Duplicates | ✅ Yes | ❌ No | ❌ Keys No |
+| Order      | ✅ Yes | ❌ No | ❌ No      |
+| Index      | ✅ Yes | ❌
+    import java.util.*;
+public class MapExample 
+{
+    public static void main(String[] args) 
+{
+        HashMap<Integer, String> students = new HashMap<>();
+
+        students.put(1, "Yuvi");
+        students.put(2, "Babloo");
+
+        System.out.println(students);
+    }
+}
+
+
+| Feature    | List  | Set  | Map       |
+| ---------- | ----- | ---- | --------- |
+| Duplicates | ✅ Yes | ❌ No | ❌ Keys No |
+| Order      | ✅ Yes | ❌ No | ❌ No      |
+| Index      | ✅ Yes | ❌
+
