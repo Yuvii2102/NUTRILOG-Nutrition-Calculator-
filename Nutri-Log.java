@@ -376,3 +376,14 @@ public class MapExample
 | Order      | ✅ Yes | ❌ No | ❌ No      |
 | Index      | ✅ Yes | ❌
 
+public static void main(String[] args) 
+{
+        HashMap<Integer, String> students = new HashMap<>();
+
+        students.put(1, "Yuvi");
+        students.put(2, "Babloo");
+
+        System.out.println(students);
+    }pushed 
+    
+
